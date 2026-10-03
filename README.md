@@ -26,6 +26,20 @@ To design and implement a Palindrome Checker using Stack and Queue data structur
 - Clear button to reset the input
 - Simple and user-friendly interface
 
+## Screenshots
+
+### Screenshot 1 - Main GUI
+
+![Palindrome Checker GUI](a.png)
+
+### Screenshot 2 - Stack Result
+
+![Stack Result](b.png)
+
+### Screenshot 3 - Queue Result
+
+![Queue Result](c.png)
+
 ## Technologies Used
 
 - Python
